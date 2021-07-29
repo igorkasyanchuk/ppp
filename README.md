@@ -1,8 +1,4 @@
-# Ppp::Util
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ppp/util`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Use `ppp` instead of `pp` to get same output but without returning object. Better to console output because it's showing object only one time.
 
 ## Installation
 
@@ -22,7 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+For example:
+
+```
+rails console
+ppp User.first
+```
 
 ## Development
 
