@@ -1,3 +1,6 @@
+[![RailsJazz](https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/my_other.svg?raw=true)](https://www.railsjazz.com)
+[![https://www.patreon.com/igorkasyanchuk](https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/patron.svg?raw=true)](https://www.patreon.com/igorkasyanchuk)
+
 Use `ppp` instead of `pp` to get same output but without returning object. Better to console output because it's showing object only one time.
 
 ## Installation
